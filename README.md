@@ -20,11 +20,11 @@ Access to the Transactions API
 Clone the repository:
 bash
 
-git clone https://github.com/your-username/transactions-management-system.git
+git clone https://github.com/ROHANKUMAR347/transactiontrackerchart.git
 Navigate to the project directory:
 bash
 
-cd transactions-management-system
+cd transactiontrackerchart
 Install dependencies:
 
 npm install
