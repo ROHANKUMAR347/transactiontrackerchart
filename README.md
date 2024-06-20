@@ -2,7 +2,7 @@
 This project is a Transactions Management System that allows users to view, search, and analyze transactions using an API. It provides features such as filtering transactions by month, searching for specific transactions, pagination, and displaying statistics and charts.
 
 
-#Features
+##Features
 
 Display transactions in a table
 Filter transactions by month
