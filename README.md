@@ -35,7 +35,7 @@ Start the development server:
 npm start
 Open the application in your web browser:
 
-http://localhost:3000
+http://localhost:8000
 Use the dropdown menu to select a month. By default, March is selected.
 Enter a search query in the search box to filter transactions.
 Navigate through pages using the Next and Previous buttons.
