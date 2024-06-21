@@ -28,6 +28,11 @@ cd transactiontrackerchart
 Install dependencies:
 
 npm install
+
+## Deployed Link   
+for see the frontend properly you have to run comand 
+./backend -    npm run dev 
+
 ## Usage
 Start the development server:
 
